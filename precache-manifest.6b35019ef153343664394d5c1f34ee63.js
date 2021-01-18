@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1872538c7d24b31832be4795c6219577",
+    "revision": "c211778559f1a8b2b457f986d860df5c",
     "url": "/index.html"
   },
   {
-    "revision": "beabb4c044e75df27ecc",
+    "revision": "70e9cdeee87836acc397",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.acd7d1e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "beabb4c044e75df27ecc",
-    "url": "/static/js/main.bee9e424.chunk.js"
+    "revision": "70e9cdeee87836acc397",
+    "url": "/static/js/main.7a37c9bc.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
     "url": "/static/js/runtime-main.554504a0.js"
   },
   {
-    "revision": "32f6b574eb11519020e24620a38bdf55",
-    "url": "/static/media/hashirshoaeb.32f6b574.png"
+    "revision": "aecf925f6a67b45ecb010fd2dac9edcd",
+    "url": "/static/media/claudia-de-lima.aecf925f.jpg"
   },
   {
     "revision": "0586a1422fe035b714221649d5942dfe",
